@@ -47,6 +47,7 @@ Private projects, described without the code.
 | **Reading analytics app** | Flutter · drift · BLoC | An iOS/Android app that measures how people read English documents: one-sentence-at-a-time reader, per-sentence timing, and reports on where the reading time went. Product logic lives in a pure-Dart core with tests that pin every metric. |
 | **Tablet POS for retail markets** | Flutter · Firestore · Shorebird | A landscape point-of-sale app for the Vietnamese market with over-the-air patches, a team of specialised coding agents, and a read-only Firestore MCP server for debugging live data. |
 | **Crash aggregator** | Python · Sentry · BigQuery · MCP | A CLI and MCP server that pulls crashes from Sentry and Firebase Crashlytics, fingerprints and correlates them across sources, and ranks incidents by user impact so triage starts from the right place. |
+| **ML trading research bot** | Python · Freqtrade/FreqAI · XGBoost · Docker | An algorithmic trading research stack: gradient-boosted price models gated by rule-based market-structure confirmations, with stationary engineered features, containerised for local development and cloud spot instances. |
 
 ### Activity
 
