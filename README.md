@@ -73,4 +73,4 @@ At AppsCyclone since 2020. I have built production apps in these domains:
   </picture>
 </p>
 
-<p align="center"><sub>Open to mobile and AI agent work. Contact me on <a href="www.linkedin.com/in/phi-anh-kiệt-0372b829b">LinkedIn</a>.</sub></p>
+<p align="center"><sub>Open to mobile and AI agent work. Contact me on <a href="https://www.linkedin.com/in/phi-anh-ki%E1%BB%87t-0372b829b">LinkedIn</a>.</sub></p>
