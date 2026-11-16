@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
- <a target="_blank" href="[www.linkedin.com/in/phi-anh-kiệt-0372b829b](https://www.linkedin.com/in/phi-anh-ki%E1%BB%87t-0372b829b)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"/></a>
+ <a target="_blank" href="https://www.linkedin.com/in/phi-anh-ki%E1%BB%87t-0372b829b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
