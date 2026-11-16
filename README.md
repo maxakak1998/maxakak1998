@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/phi-anh-kiet-0372b829b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"/></a>
+  <a href="www.linkedin.com/in/phi-anh-kiệt-0372b829b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
@@ -73,4 +73,4 @@ At AppsCyclone since 2020. I have built production apps in these domains:
   </picture>
 </p>
 
-<p align="center"><sub>Open to mobile and AI agent work. Contact me on <a href="https://linkedin.com/in/phi-anh-kiet-0372b829b">LinkedIn</a>.</sub></p>
+<p align="center"><sub>Open to mobile and AI agent work. Contact me on <a href="www.linkedin.com/in/phi-anh-kiệt-0372b829b">LinkedIn</a>.</sub></p>
